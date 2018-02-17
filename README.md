@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is the reference code for [CryptoNote](https://cryptonote.org) cryptocurrency protocol.
 
 * Launch your own CryptoNote currency: [CryptoNote Starter](https://cryptonotestarter.org/)
@@ -239,3 +240,6 @@ cmake -G "Visual Studio 12 Win64" ..
 
 And then do Build.
 Good luck!
+=======
+# sx1
+>>>>>>> b7f4f0bf2ff9a53294a86cbe84aef472c516b647
